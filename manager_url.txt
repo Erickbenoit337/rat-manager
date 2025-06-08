@@ -1,1 +1,18 @@
-{}
+{
+  "c2": {
+    "host": "ladies-northeast-jessica-eastern",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc ladies-northeast-jessica-eastern:"
+  },
+  "shell": {
+    "host": "image-cu-benz-trading",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc image-cu-benz-trading:"
+  },
+  "webcam": {
+    "url": "https://sapphire-proportion-magazines-pleasure.trycloudflare.com",
+    "type": "http"
+  }
+}
