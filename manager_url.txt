@@ -1,1 +1,18 @@
-{}
+{
+  "c2": {
+    "host": "dp-cook-eating-tracks",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc dp-cook-eating-tracks:"
+  },
+  "shell": {
+    "host": "networking-breaking-comm-program",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc networking-breaking-comm-program:"
+  },
+  "webcam": {
+    "url": "https://fear-settlement-groove-cole.trycloudflare.com",
+    "type": "http"
+  }
+}
