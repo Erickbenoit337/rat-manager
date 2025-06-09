@@ -1,1 +1,18 @@
-{}
+{
+  "c2": {
+    "host": "tuesday-philadelphia-rp-vocal",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc tuesday-philadelphia-rp-vocal:"
+  },
+  "shell": {
+    "host": "scan-edges-nano-accompanying",
+    "port": "",
+    "type": "tcp",
+    "connection_string": "nc scan-edges-nano-accompanying:"
+  },
+  "webcam": {
+    "url": "https://folks-liable-gifts-assumptions.trycloudflare.com",
+    "type": "http"
+  }
+}
