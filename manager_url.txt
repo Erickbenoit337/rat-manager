@@ -1,18 +1,1 @@
-{
-  "c2": {
-    "host": "secondary-zum-physically-alumni",
-    "port": "",
-    "type": "tcp",
-    "connection_string": "nc secondary-zum-physically-alumni:"
-  },
-  "shell": {
-    "host": "wing-anxiety-proposed-happening",
-    "port": "",
-    "type": "tcp",
-    "connection_string": "nc wing-anxiety-proposed-happening:"
-  },
-  "webcam": {
-    "url": "https://folding-simpson-anniversary-alpha.trycloudflare.com",
-    "type": "http"
-  }
-}
+{}
