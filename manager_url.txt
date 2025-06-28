@@ -1,18 +1,33 @@
 {
-  "c2": {
-    "host": "bryan-buyer-shut-cir",
-    "port": "",
-    "type": "tcp",
-    "connection_string": "nc bryan-buyer-shut-cir:"
+  "tunnels": {
+    "c2": {
+      "url": "tcp://cherry-fears-stands-involving.trycloudflare.com",
+      "port": 4444,
+      "type": "tcp",
+      "status": "active",
+      "error": "",
+      "last_checked": "2025-06-28T09:06:56.477120",
+      "reconnects": 1
+    },
+    "shell": {
+      "url": "tcp://objectives-have-border-dive.trycloudflare.com",
+      "port": 5050,
+      "type": "tcp",
+      "status": "active",
+      "error": "",
+      "last_checked": "2025-06-28T09:07:03.177766",
+      "reconnects": 1
+    },
+    "webcam": {
+      "url": "https://during-younger-mono-tunisia.trycloudflare.com",
+      "port": 8090,
+      "type": "http",
+      "status": "active",
+      "error": "",
+      "last_checked": "2025-06-28T09:07:09.659338",
+      "reconnects": 1
+    }
   },
-  "shell": {
-    "host": "anthony-cds-casio-collect",
-    "port": "",
-    "type": "tcp",
-    "connection_string": "nc anthony-cds-casio-collect:"
-  },
-  "webcam": {
-    "url": "https://commodity-founder-islamic-respective.trycloudflare.com",
-    "type": "http"
-  }
+  "last_update": "2025-06-28T09:07:09.660104",
+  "status": "online"
 }
