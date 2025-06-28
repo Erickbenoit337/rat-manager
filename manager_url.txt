@@ -1,33 +1,33 @@
 {
   "tunnels": {
     "c2": {
-      "url": "tcp://cherry-fears-stands-involving.trycloudflare.com",
+      "url": "tcp://wan-sail-drug-frozen.trycloudflare.com",
       "port": 4444,
       "type": "tcp",
       "status": "active",
       "error": "",
-      "last_checked": "2025-06-28T09:06:56.477120",
-      "reconnects": 1
+      "last_checked": "2025-06-28T09:07:20.827536",
+      "reconnects": 2
     },
     "shell": {
-      "url": "tcp://objectives-have-border-dive.trycloudflare.com",
+      "url": "tcp://movie-filled-terrorism-hand.trycloudflare.com",
       "port": 5050,
       "type": "tcp",
       "status": "active",
       "error": "",
-      "last_checked": "2025-06-28T09:07:03.177766",
-      "reconnects": 1
+      "last_checked": "2025-06-28T09:07:32.003450",
+      "reconnects": 2
     },
     "webcam": {
-      "url": "https://during-younger-mono-tunisia.trycloudflare.com",
+      "url": "https://jane-said-improving-cooler.trycloudflare.com",
       "port": 8090,
       "type": "http",
       "status": "active",
       "error": "",
-      "last_checked": "2025-06-28T09:07:09.659338",
-      "reconnects": 1
+      "last_checked": "2025-06-28T09:07:39.949505",
+      "reconnects": 2
     }
   },
-  "last_update": "2025-06-28T09:07:09.660104",
+  "last_update": "2025-06-28T09:07:39.950322",
   "status": "online"
 }
