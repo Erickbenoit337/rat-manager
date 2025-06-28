@@ -1,22 +1,22 @@
 {
   "tunnels": {
     "c2": {
-      "url": "tcp://destinations-alabama-wheat-dietary.trycloudflare.com",
+      "url": "tcp://api.trycloudflare.com",
       "port": 4444,
       "type": "tcp",
       "status": "active",
       "error": "",
-      "last_checked": "2025-06-28T09:09:14.233159",
-      "reconnects": 4
+      "last_checked": "2025-06-28T09:10:16.310118",
+      "reconnects": 5
     },
     "shell": {
-      "url": "tcp://showing-heritage-willing-construction.trycloudflare.com",
+      "url": "tcp://instructions-identifies-termination-barbara.trycloudflare.com",
       "port": 5050,
       "type": "tcp",
       "status": "active",
       "error": "",
-      "last_checked": "2025-06-28T09:09:20.738957",
-      "reconnects": 4
+      "last_checked": "2025-06-28T09:10:23.970699",
+      "reconnects": 5
     },
     "webcam": {
       "url": "https://api.trycloudflare.com",
@@ -28,6 +28,6 @@
       "reconnects": 4
     }
   },
-  "last_update": "2025-06-28T09:09:36.333262",
+  "last_update": "2025-06-28T09:10:54.016107",
   "status": "online"
 }
