@@ -1,33 +1,20 @@
-{
-  "tunnels": {
-    "c2": {
-      "url": "tcp://api.trycloudflare.com",
-      "port": 4444,
-      "type": "tcp",
-      "status": "active",
-      "error": "",
-      "last_checked": "2025-06-28T09:10:16.310118",
-      "reconnects": 5
-    },
-    "shell": {
-      "url": "tcp://instructions-identifies-termination-barbara.trycloudflare.com",
-      "port": 5050,
-      "type": "tcp",
-      "status": "active",
-      "error": "",
-      "last_checked": "2025-06-28T09:10:23.970699",
-      "reconnects": 5
-    },
-    "webcam": {
-      "url": "https://api.trycloudflare.com",
-      "port": 8090,
-      "type": "http",
-      "status": "active",
-      "error": "",
-      "last_checked": "2025-06-28T09:09:36.332757",
-      "reconnects": 4
-    }
-  },
-  "last_update": "2025-06-28T09:12:58.651574",
-  "status": "online"
-}
+# Tunnels Cloudflared - Mise à jour: 2025-08-06 13:22:15
+# Version: 3.1
+
+[C2]
+URL=https://jet-spice-bucks-phil.trycloudflare.com
+PORT=4444
+TYPE=socket
+STATUS=ACTIVE
+
+[Shell]
+URL=https://express-twenty-scott-circulation.trycloudflare.com
+PORT=5050
+TYPE=socket
+STATUS=ACTIVE
+
+[Webcam]
+URL=https://oops-sweden-pin-namibia.trycloudflare.com
+PORT=8090
+TYPE=flask
+STATUS=ACTIVE
